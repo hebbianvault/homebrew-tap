@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hebbianvault/hebbian-mcp/main/brand/hebbian-logo-256.png" alt="Hebbian" width="256" />
+  <img src="brand/hebbian-lockup-cyan.png" alt="Hebbian" width="520">
 </p>
 
 # Hebbian Homebrew Tap
